@@ -6,3 +6,8 @@
 //
 
 #include "main.hpp"
+
+int main()
+{
+    printf("Hello, World!");
+}
